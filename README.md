@@ -1,8 +1,10 @@
 # robotics_algorithms
-My work on the programming assignments for the course CSE 568-Robotics Algorithms at UB.
-Course Outline and Objectives:
-At the end of this course, a successful student should be able to understand and
-reason about:
+My work on the programming assignments for the course CSE 568-Robotics Algorithms at UB.<br/>
+
+There are 5 programming assignments in this course, based on Robot Operating System(ROS)
+
+Course Outline and Objectives:<br/>
+At the end of this course, a successful student should be able to understand and reason about:<br/>
 1- Mobility: Wheeled locomotion<br/>
 2- Kinematics: Wheeled kinematics, coordinate transforms<br/>
 3- Sensing: Various sensors, sensor classification and sensor characterization<br/>
