@@ -26,7 +26,7 @@ def callback(msg):
 	total = min(ranges)
 	print("Average: "+str(total))
 	if total < 1.2:
-		print("Rotating");
+		print("Rotating")
 		#angle = random.uniform(-1, 1) * 6.28
 		posNeg = random.uniform(0, 1)
 		angle = random.uniform(2, 3.14)
